@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 two - 2
 Here is the two - 2
 
+=======
+
+
+
+Write from main
+>>>>>>> main
